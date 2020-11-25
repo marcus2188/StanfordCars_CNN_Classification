@@ -4,4 +4,4 @@ Dataset used is the Stanford Cars Dataset as derived from: https://ai.stanford.e
 Below shows a summary of the files inside this repository.
 * A directory called "devkit" containing matlab files of label mappings of images
 * Jupyter Notebook "Image_preprocessing.ipynb" which creates new neater working directories
-* "GoogLeNet_InceptionV3.ipynb" is a googlenet implementation that scores roughly 80% testing accuracy.
+* Requirements.txt is a document for instructions to run this repository's code if needed
